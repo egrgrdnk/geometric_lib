@@ -37,3 +37,34 @@
 На входе функция получает 3 числа - стороны треугольника. Результатом является его периметр.
 Для вызова функции и ввода чисел, нужно испоьзовать perimeter(сторона 1, сторона 2, сторона 3).
 Пусть стороны треугольника равны 2, 3 и 4 Тогда функция perimeter(2, 3, 4) выдаст результат 9.
+
+# Project change history with commit hashes.
+## Date:   Fri Nov 29 19:16:34 2024 +0300
+### commit c3984199d14ce5775c59fe56e52ddd237ccf6a6e (HEAD -> new_features_465588, origin/new_features_465588)
+#### Author: egrgrdnk
+add comments
+
+## Date:   Fri Nov 29 18:12:58 2024 
+### commit 4c8e4f8212bb10a69e379842b60f15a36268059d
+#### Author: egrgrdnk 
+update rectangle.py
+
+## Date:   Fri Nov 29 18:10:58 2024
+### commit 3fa01401394e63b696485456447cd5b495022560
+#### Author: egrgrdnk 
+add triangle.py
+
+## Date:   Fri Nov 29 18:07:18 2024
+### commit 3ce7c3d82b9e80599ca69107e9ed9618cc9a36fe
+#### Author: egrgrdnk 
+add rectangle.py
+
+## Date:   Thu Mar 4 14:55:29 2021 
+### commit d078c8d9ee6155f3cb0e577d28d337b791de28e2 (origin/main, origin/HEAD, main)
+#### Author: smartiqa 
+L-03: Docs added
+
+## Date:   Thu Mar 4 14:54:08 2021 
+### commit 8ba9aeb3cea847b63a91ac378a2a6db758682460
+#### Author: smartiqa 
+ L-03: Circle and square added
